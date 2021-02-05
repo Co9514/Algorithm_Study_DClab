@@ -60,5 +60,4 @@ def solution(number1, number2):
 
 [프로그래머스](https://programmers.co.kr/)
 
-[백준](https://www.acmicpc.net/)
->>>>>>> de6210ef7326eac905164cd95e4b55ea570ed8e6
+[백준](https://www.acmicpc.net/
